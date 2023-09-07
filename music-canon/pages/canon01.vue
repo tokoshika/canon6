@@ -59,7 +59,7 @@
         <div><p class="p2">ドァ</p></div>
         <div><p class="p2 high">ド</p></div>
         <div><p class="p2 high">ド</p></div>
-        <div><p class="p2">ソ</p></div>
+        <div><p class="p2">シ</p></div>
       </div>
     </div>
   </div>
