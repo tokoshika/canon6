@@ -31,17 +31,35 @@
         <div><p class="p2">ソ</p></div>
         <div><p class="p2">ファ</p></div>
         <div><p class="p2">ミ</p></div>
-        <div><p class="p2">ド</p></div>
-        <div><p class="p2">ミ</p></div>
-        <div><p class="p2">レ</p></div>
-        <div><p class="p2">ド</p></div>
+        <div><p class="p2 high">ド</p></div>
+        <div><p class="p2 high">ミ</p></div>
+        <div><p class="p2 high">レ</p></div>
+        <div><p class="p2 high">ド</p></div>
         <div><p class="p2">ラ</p></div>
-        <div><p class="p2">ド</p></div>
+        <div><p class="p2 high">ド</p></div>
         <div><p class="p2">ソ</p></div>
         <div><p class="p2">ファ</p></div>
         <div><p class="p2">ラ</p></div>
         <div><p class="p2">ソァ</p></div>
         <div><p class="p2">ファ</p></div>
+      </div>
+      <div class="phrase2">
+        <div><p class="p2">ミ</p></div>
+        <div><p class="p2">ド</p></div>
+        <div><p class="p2">レ</p></div>
+        <div><p class="p2">シ</p></div>
+        <div><p class="p2 high">ド</p></div>
+        <div><p class="p2 high">ミ</p></div>
+        <div><p class="p2 high">ソ</p></div>
+        <div><p class="p2">ソ</p></div>
+        <div><p class="p2">ラ</p></div>
+        <div><p class="p2">ファ</p></div>
+        <div><p class="p2">ソ</p></div>
+        <div><p class="p2">ミ</p></div>
+        <div><p class="p2">ドァ</p></div>
+        <div><p class="p2 high">ド</p></div>
+        <div><p class="p2 high">ド</p></div>
+        <div><p class="p2">ソ</p></div>
       </div>
     </div>
   </div>
@@ -91,7 +109,7 @@
     width: 50px;
     height: 50px;
     color: white;
-    background-color: red;
+    background-color: black;
     border-radius: 40px;
     margin-left: 0.5rem;
     margin-right: 0.5rem;
